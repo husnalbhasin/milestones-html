@@ -1,0 +1,32 @@
+p.color {
+    color: rgb(255, 153, 0);
+  }
+
+  p.align {
+    text-align: left;
+  }
+
+  p.font-fam{
+    font-family:'Courier New', Courier, monospace;
+  }
+
+  p.font-size{
+    font-size: 35px;
+  }
+
+  p.font-style{
+    font-style: normal;
+  }
+
+  p.font-weight{
+    font-weight:bolder;
+  }
+  p.letter-space{
+      font-style: oblique;
+  }
+  p.transform {
+      text-decoration: wavy;
+  }
+  p.line-height{ 
+      text-size-adjust: 150;
+  }
